@@ -1,2 +1,2 @@
 # linear-algebra
-C++ bits to explore the world of linear algebra in code.
+Code bits to explore the world of linear algebra using python.
